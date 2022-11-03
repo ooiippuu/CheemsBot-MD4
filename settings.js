@@ -61,15 +61,15 @@ global.socialm = "GitHub: VOTLX" //ur github or insta name
 global.location = "Egypt, Cairo, GIZA" //ur location
 
 //bot bomdy 
-global.owner = ['201098906252']
-global.ownertag = '201098906252' //ur tag number
+global.owner = ['201069401225']
+global.ownertag = '201069401225' //ur tag number
 global.botname = 'VOTLX ٫' //ur bot name
-global.linkz = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //ur website to be displayed
-global.botscript = 'https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn' //script link
+global.linkz = "https://youtu.be/iv6FGLDh64M" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtu.be/iv6FGLDh64M" //ur website to be displayed
+global.botscript = 'https://t.me/om_ara21' //script link
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
-global.packname = "Wael" //ur sticker watermark packname
+global.packname = "VOTLX" //ur sticker watermark packname
 global.author = "⍣01098906252⍣" //ur sticker watermark author
 
 //Bot theme media
